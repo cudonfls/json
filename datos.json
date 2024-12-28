@@ -1,0 +1,92 @@
+{
+    "code": "000000",
+    "message": null,
+    "messageDetail": null,
+    "data": {
+        "catalogs": [
+            {
+                "catalogId": 48,
+                "parentCatalogId": null,
+                "icon": "https://public.bnbstatic.com/image/cms/content/body/202202/9252ba30f961b1a20d49e622a0ecfad5.png",
+                "catalogName": "New Cryptocurrency Listing",
+                "description": null,
+                "catalogType": 1,
+                "total": 1631,
+                "articles": [
+                    {
+                        "id": 221735,
+                        "code": "a9c8bddb0f544726b4401718ee116ba7",
+                        "title": "Binance Futures Will Launch USDⓈ-Margined DEXEUSDT Perpetual Contract With up to 75x Leverage",
+                        "type": 1,
+                        "releaseDate": 1735031705604
+                    },
+                    {
+                        "id": 221560,
+                        "code": "f4717985d5d549c8adf284ef4fbd9107",
+                        "title": "Introducing BIO Protocol (BIO) on Binance Launchpool! Farm BIO by Locking BNB and FDUSD",
+                        "type": 1,
+                        "releaseDate": 1734949152975
+                    },
+                    {
+                        "id": 221532,
+                        "code": "3711e9a08327401780ef31aea01ead1b",
+                        "title": "Binance Futures Will Launch USDⓈ-Margined HIVEUSDT Perpetual Contract With up to 75x Leverage",
+                        "type": 1,
+                        "releaseDate": 1734945318480
+                    },
+                    {
+                        "id": 221412,
+                        "code": "804bea6cf51a4edc9079962ff77bb3b1",
+                        "title": "Binance Futures Will Launch USDⓈ-Margined AIXBTUSDT, FARTCOINUSDT, KMNOUSDT and CGPTUSDT Perpetual Contracts With up to 75x Leverage",
+                        "type": 1,
+                        "releaseDate": 1734710650493
+                    },
+                    {
+                        "id": 221045,
+                        "code": "c5454fe49a4343eb9a49b0e0350ce085",
+                        "title": "Binance Will Add Usual (USUAL) on Earn, Buy Crypto, Convert, Margin & Futures",
+                        "type": 1,
+                        "releaseDate": 1734517803199
+                    },
+                    {
+                        "id": 221079,
+                        "code": "c6420ba80fe54282970e1d69cafa56a4",
+                        "title": "Binance Futures Will Launch USDⓈ-Margined LUMIAUSDT Perpetual Contract With up to 75x Leverage",
+                        "type": 1,
+                        "releaseDate": 1734514149028
+                    },
+                    {
+                        "id": 221018,
+                        "code": "6ff8d2ec712e4ac99d2bb04eba20c6f6",
+                        "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2024-12-19",
+                        "type": 1,
+                        "releaseDate": 1734512409815
+                    },
+                    {
+                        "id": 220963,
+                        "code": "24e4975699364cd59cfaf9dc70a6ca8f",
+                        "title": "Binance Futures Copy Trading Adds New USDⓈ-M Perpetual Contracts (2024-12-18)",
+                        "type": 1,
+                        "releaseDate": 1734507029325
+                    },
+                    {
+                        "id": 220761,
+                        "code": "c669e07a85214c55a4f15af7717675c6",
+                        "title": "Binance Will Add Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Earn, Buy Crypto, Convert, Margin & Futures",
+                        "type": 1,
+                        "releaseDate": 1734424208879
+                    },
+                    {
+                        "id": 220669,
+                        "code": "b60b629a7396476ba3c3391b016074e1",
+                        "title": "Introducing Simon's Cat (1000CAT) and Pudgy Penguins (PENGU) on Binance HODLer Airdrops!",
+                        "type": 1,
+                        "releaseDate": 1734352605627
+                    }
+                ],
+                "catalogs": []
+            }
+        ]
+    },
+    "success": true
+}
